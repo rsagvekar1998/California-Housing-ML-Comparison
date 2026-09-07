@@ -1,0 +1,13 @@
+california-housing-ml-comparison/
+│
+├── data/                               # Optional (fetch_california_housing downloads dynamically)
+├── notebooks/
+│   └── AI_ML_Task2_Model_Comparison.ipynb
+├── models/
+│   └── best_housing_model.pkl          # Serialized candidate model
+├── reports/
+│   ├── Task2_Model_Report.pdf          
+│   └── residual_analysis.png           
+├── .gitignore
+├── requirements.txt
+└── README.md
